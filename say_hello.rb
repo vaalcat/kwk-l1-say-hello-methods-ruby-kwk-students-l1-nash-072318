@@ -1,2 +1,2 @@
 # Build your say_hello method here
- def say_hello ("Valeria")
+ def say_hello ("Val")
